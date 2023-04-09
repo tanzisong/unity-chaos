@@ -1,0 +1,9 @@
+<field name="preset" type="m2o">
+  <!--  这里假设tags是单独的表存储，tags和当前page是m2m的对应关系-->
+  <links/>
+</field>
+
+<field name="tags" type="m2m">
+  <!-- m2o的link组件并不是通过url跳转，而是通过modal name 找到对应的路由（或者其他类路由实现方案）以及其他字段名和字段值拼接出来的uri -->
+  <select/>
+</field>

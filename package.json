@@ -1,0 +1,19 @@
+{
+  "name": "unity-chaos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd ./packages/entrance && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanzisong/unity-chaos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanzisong/unity-chaos/issues"
+  },
+  "homepage": "https://github.com/tanzisong/unity-chaos#readme"
+}

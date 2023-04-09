@@ -1,0 +1,12 @@
+<table>
+    <actions>
+        行内动作集
+    </actions>
+    <field name="id" type="id">
+        <id/>
+    </field>
+
+    <field name="name" type="string">
+        <text/>
+    </field>
+</table>
